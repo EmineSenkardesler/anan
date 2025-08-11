@@ -11,7 +11,7 @@ Behavior:
 Usage:
   python animate_love.py
 
-Optional:
+Optional:dasdsd
   python animate_love.py --points 1200 --output heart_edge_coordinates.txt
 """
 
